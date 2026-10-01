@@ -1,4 +1,4 @@
-USE project1;
+USE sakila;
 
 
 #Q2
